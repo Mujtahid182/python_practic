@@ -14,3 +14,5 @@ print(height)
 
 is_empoly = True
 print(is_empoly)
+
+print("yes"*3)
